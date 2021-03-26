@@ -1,0 +1,10 @@
+[{
+  "type": "ENTER",
+  "index": ["entities","300","settings","event","21"]
+}, {
+  "type": "SET_KEY",
+  "index": "bgm",
+  "content": "shizuka"
+} , {
+  "type": "EXIT"
+}]

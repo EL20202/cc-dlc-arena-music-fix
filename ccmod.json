@@ -1,0 +1,16 @@
+{
+    "id": "dlc-arena-music-fix",
+	"version": "1.0.0",
+
+	"title": "DLC Arena Music Fix",
+	"description": "Fixes the music that plays in some DLC Arena rounds.",
+	
+    "homepage": "https://github.com/EL20202/cc-uncapped-stats",
+    "icons": {
+        "24": "icon.png"
+    },
+
+	"dependencies": {
+        "ccloader": "^2.20.0"
+	}
+}
